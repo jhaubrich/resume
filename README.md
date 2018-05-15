@@ -1,7 +1,12 @@
 # Jesse Haubrich
-Software Engineer
+###### Software Engineer
 
-[jesse.haubrich@gmail.com](mailto:jesse.haubrich@gmail.com) [+1 405-796-6656](tel:+14057966656)
+<div id="contact">
+
+* [jesse.haubrich@gmail.com](mailto:jesse.haubrich@gmail.com)
+* [+1 405-796-6656](tel:+14057966656)
+
+</div>
 
 I am a senior software developer based in Oklahoma City. I have been
 writing software for the web professionally since 2011. I have two
@@ -63,10 +68,13 @@ Software: Linux, Docker, Postgres, Redis, Flask, and lots of related things
 President
 
 **Robotics Club**
-Instructor/website
+Instructor/web guy
 
 **Central Oklahoma Regional**
 Science Fair Judge
 
 **EVE Online**
-New player onboarding
+New player nboarding
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" href="my.css" >

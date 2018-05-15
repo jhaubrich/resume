@@ -1,0 +1,31 @@
+body {
+  padding: 3rem;
+}
+
+h1 {
+  margin-left: -1rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  padding: 1rem 0 .5rem 0;
+  color: gray;
+  margin-left: -.5rem;
+  letter-spacing: .2rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+  padding-top: 1rem;
+  font-weight: bold;
+  padding-top: .5rem;
+}
+
+#contact li {
+  list-style-type: none;
+  font-size:.75em;
+}
+
+#contact ul {
+    padding: 0;
+}
