@@ -1,3 +1,4 @@
+Title:  Jesse Haubrich's Resume
 # Jesse Haubrich
 ###### Software Engineer
 
@@ -19,7 +20,7 @@ Outside of engineering I am a musician, brewer, and avid gamer.
 ## Experience
 
 ### Open Source Developer
-I've made some small contributions to a [bunch of small
+I've made some small contributions to [a bunch of small
 projects](http://github.com/jhaubrich).
 
 ### FAA - Wide Area Augmentation System
