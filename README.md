@@ -53,6 +53,7 @@ Awarded the "Outstanding Senior Design Project" for our
 year-long effort in the design of an experimental system furthering Dr.
 Lemley's Research in microfluidics.
 
+### Publications
 **Milliscale Junction-Flow Experiments** ASME 2010 3rd Joint
 USEuropean Fluids Engineering Summer Meeting and 8th
 
@@ -61,8 +62,8 @@ Projects to Research Projects - ASEE 2010 Annual Conference &
 Exposition
 
 ## Proficiencies
-Code: Python, JavaScript, Bash, Ruby, C, HTML/CSS, SQL, elisp, Clojure <br />
-Software: Linux, Docker, Postgres, Redis, Flask, and lots of related things
+**Code:** Python, JavaScript, Bash, Ruby, C, HTML/CSS, SQL, elisp, Clojure <br />
+**Software:** Linux, Docker, Postgres, Redis, Flask, and lots of related things
 
 ## Volunteering
 **Engineering Physics Club**
