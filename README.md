@@ -46,7 +46,7 @@ design/python/Linux). I also built the department's computing cluster
 and configured it to run microfluid simulations. My work was
 published.
 
-### Education
+## Education
 **B.S. Engineering Physics** - University of Central Oklahoma - 2010
 
 Awarded the "Outstanding Senior Design Project" for our
