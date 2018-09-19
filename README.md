@@ -88,7 +88,7 @@ Instructor/web guy
 Science Fair Judge
 
 **EVE Online**
-New player nboarding
+New player onboarding
 
 
 
