@@ -24,8 +24,15 @@ Outside of engineering I am a musician, a brewer, and a gamer.
 I've made some small contributions to [a bunch of small
 projects](http://github.com/jhaubrich).
 
+### Clevyr, Inc
+**Senior Software Engineer** 2019 to Present. In my short time with Clevyr I went deep on PHP Laravel, but spent most of my time building a GPS enabled warning sign for Semi-truck trailers. I delivered 2 iterations on a final prototype, and the customer was very happy with the deliverable. 
+* The project involved AVR programming in C
+* Designing an ultrabright LED matrix
+* Fusing GPS and accelerometer data
+* Basic power circuit design
+
 ### FAA - Wide Area Augmentation System
-**Software Engineer** Sept 2011 to Present. I was brought on as an
+**Software Engineer** Sept 2011 to 2019. I was brought on as an
 engineer and trained on GPS, but my work has been almost exclusively
 software and the devops to support it.
 * I implemented and evangelized build automation/version control (Jenkins/Github)
