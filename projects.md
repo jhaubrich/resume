@@ -12,6 +12,15 @@ Title:  Jesse Haubrich's Projects
 
 ## Projects
 
+### SaferStatus - a GPS enabled warning sign for Semi-truck Trailers
+
+AVR/C/digital and analog circuit design/sensor data integration - 
+Western Flyer Express wanted a sign on the back of their trailers that would
+warn drivers of the truck slowing or stopping to prevent rear-end collisions.
+I delivered 2 iterations of a prototype for patenting and demonstration, and the 
+customer loved it. We were making good stride on designing the MVP for Chinese 
+manufacturing when Clevyr decided to refocus on their core business.
+
 ### MCP - Webapp to parse GEO maneuvers and notify operators
 
 Python/redis/JavaScript/docker/Linux - I built and maintain a
