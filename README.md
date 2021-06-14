@@ -24,8 +24,11 @@ Outside of engineering I am a musician, a brewer, and a gamer.
 I've made some small contributions to [a bunch of small
 projects](http://github.com/jhaubrich).
 
+### Legend Energy Services
+**IOT Engineer** 2019 to Present. As part of an R&D team that applied machine learning to high resolution sensor data I developed a monitoring system that could collect 8 sensors at 40,000 samples per second and capture them on AWS. I was responsible for the electronics design and software.
+
 ### Clevyr, Inc
-**Senior Software Engineer** 2019 to Present. In my short time with Clevyr I went deep on PHP Laravel, but spent most of my time building a GPS enabled warning sign for Semi-truck trailers. I delivered 2 iterations on a final prototype, and the customer was very happy with the deliverable. 
+**Senior Software Engineer** Feb 2019 to May 2019. In my short time with Clevyr I went deep on PHP Laravel, but spent most of my time building a GPS enabled warning sign for Semi-truck trailers. I delivered 2 iterations on a final prototype, and the customer was very happy with the deliverable. 
 * The project involved AVR programming in C
 * Designing an ultrabright LED matrix
 * Fusing GPS and accelerometer data
